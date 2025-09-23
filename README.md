@@ -19,6 +19,6 @@
 ![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blacksnow2706&show_icons=true&theme=tokyonight)
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/<your-link>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/piyushanand27)
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=x)](https://twitter.com/@PiyushA04044536)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itzpiyushanand27@gmail.com)
