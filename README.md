@@ -1,16 +1,24 @@
-## Hi there 👋
-[![Piyush Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=blacksnow2706)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**BlackSnow2706/BlackSnow2706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I’m Piyush Anand 👋
 
-Here are some ideas to get you started:
+![Profile Banner](https://raw.githubusercontent.com/<your-username>/<your-username>/main/banner.png) <!-- optional image -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 **B.Tech CSE** @ Vivekananda Global University  
+- 💻 Passionate about **Software Development**, **AI/ML**, and **Cross-Platform Apps**  
+- 🌱 Currently exploring **C++/Qt** and **Machine Learning**  
+- 🌍 Love learning **languages** (Japanese 🇯🇵, French 🇫🇷, Korean 🇰🇷 basics)
+
+## 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+## 📊 GitHub Stats
+![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blacksnow2706&show_icons=true&theme=tokyonight)
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/<your-link>)
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=x)](https://twitter.com/@PiyushA04044536)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itzpiyushanand27@gmail.com)
