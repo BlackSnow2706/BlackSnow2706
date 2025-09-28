@@ -1,6 +1,6 @@
 # Hi there, I’m Piyush Anand 👋
 
-![Profile Banner](https://raw.githubusercontent.com/<your-username>/<your-username>/main/banner.png) <!-- optional image -->
+![Profile Banner](https://raw.githubusercontent.com/blacksnow2706/blacksnow2706/main/banner.png) <!-- optional image -->
 
 ## 🚀 About Me
 - 🎓 **B.Tech CSE** @ Vivekananda Global University  
