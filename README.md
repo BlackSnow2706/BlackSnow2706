@@ -6,7 +6,7 @@
 - 🎓 **B.Tech CSE** @ Vivekananda Global University  
 - 💻 Passionate about **Software Development**, **AI/ML**, and **Cross-Platform Apps**  
 - 🌱 Currently exploring **C++/Qt** and **Machine Learning**  
-- 🌍 Love learning **languages** (Japanese 🇯🇵, French 🇫🇷, Korean 🇰🇷 basics)
+- 🌍 Love learning **languages** (Japanese 🇯🇵, )
 
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
