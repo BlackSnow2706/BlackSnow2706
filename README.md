@@ -16,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ## 📊 GitHub Stats
-![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blacksnow2706&show_icons=true&theme=tokyonight)
+![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blacksnow2706&show_icons=true&theme=material-palenight)
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/piyushanand27)
