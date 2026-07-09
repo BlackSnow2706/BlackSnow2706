@@ -2,7 +2,7 @@
 <h3 align="center">Co-Founder & CTO @ SafeSphere Technologies | B.Tech CSE @ VGU Jaipur</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0e75b6,100:1a1a2e&amp;height=200&amp;section=header&amp;text=Piyush%20Anand&amp;fontSize=45&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Co-Founder%20%26%20CTO%20%40%20SafeSphere%20Technologies&amp;descAlignY=55&amp;descSize=18" alt="Profile Banner" width="100%"/>
+  <img src="https://github.com/BlackSnow2706/BlackSnow2706/blob/main/Github_Banner_Image.png" alt="Profile Banner" width="100%"/>
 </p>
 
 <p align="center">
