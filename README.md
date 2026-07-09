@@ -65,16 +65,10 @@
 | **[SignEd](#)** | Dockerized document-signing platform with OTP email auth, JWT sessions, and a full REST API |
 | **[Barsa Enterprises](#)** | Brand & web presence for a woodworks and laser-engraving business |
 
-> Replace `#` with your actual repo links to make these clickable.
 
 ---
 
 ### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=blacksnow2706&amp;show_icons=true&amp;theme=dracula&amp;hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacksnow2706&amp;layout=compact&amp;theme=dracula&amp;hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blacksnow2706&amp;theme=dracula&amp;hide_border=true" alt="GitHub Streak"/>
