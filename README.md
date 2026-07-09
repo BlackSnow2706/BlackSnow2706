@@ -63,7 +63,6 @@
 |---|---|
 | **[AURA](#)** | AI-driven universal disaster response pipeline — BERT classification, NER, geocoding, urgency scoring, and a live MongoDB + Flask dashboard |
 | **[SignEd](#)** | Dockerized document-signing platform with OTP email auth, JWT sessions, and a full REST API |
-| **[MCP-Optimizer](#)** | Open-source OpenAPI-to-MCP generator with semantic tool consolidation using NLP/BERT |
 | **[Barsa Enterprises](#)** | Brand & web presence for a woodworks and laser-engraving business |
 
 > Replace `#` with your actual repo links to make these clickable.
