@@ -1,17 +1,17 @@
-<h1 align="center">Piyush Anand</h1>
-<h3 align="center">Co-Founder & CTO @ SafeSphere Technologies | B.Tech CSE @ VGU Jaipur</h3>
-
 <p align="center">
-  <img src="https://github.com/BlackSnow2706/BlackSnow2706/blob/main/Github_Banner_Image.png" alt="Profile Banner" width="100%"/>
+  <img src="assets/header.svg" alt="Piyush Anand, Co-Founder & CTO @ SafeSphere Technologies" width="100%"/>
 </p>
 
+<p align="center"><b>B.Tech CSE @ VGU Jaipur</b> &nbsp;·&nbsp; <a href="https://piyushanand.me"><b>piyushanand.me</b></a></p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blacksnow2706&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat" alt="profile views" />
-  <a href="https://linkedin.com/in/piyushanand27"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="mailto:itzpiyushanand27@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&amp;logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=blacksnow2706&amp;label=Profile%20Views&amp;color=c8f000&amp;labelColor=7b2cff&amp;style=for-the-badge" alt="profile views" />
+  <a href="https://piyushanand.me"><img src="https://img.shields.io/badge/Portfolio-piyushanand.me-c8f000?style=for-the-badge&amp;labelColor=7b2cff&amp;logo=vercel&amp;logoColor=white" /></a>
+  <a href="https://linkedin.com/in/piyushanand27"><img src="https://img.shields.io/badge/LinkedIn-Connect-7b2cff?style=for-the-badge&amp;logo=linkedin&amp;logoColor=c8f000" /></a>
+  <a href="mailto:itzpiyushanand27@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7b2cff?style=for-the-badge&amp;logo=gmail&amp;logoColor=c8f000" /></a>
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ### About Me
 
@@ -23,65 +23,65 @@
 - Learning **Japanese**
 - I ship solo — founder, architect, and developer, all in one
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ### Tech Stack
 
 **Languages & Core**
 
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0b0d12?style=flat-square&logo=c%2B%2B&logoColor=c8f000&labelColor=7b2cff)
+![Python](https://img.shields.io/badge/Python-0b0d12?style=flat-square&logo=python&logoColor=c8f000&labelColor=7b2cff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b0d12?style=flat-square&logo=javascript&logoColor=c8f000&labelColor=7b2cff)
+![HTML5](https://img.shields.io/badge/HTML5-0b0d12?style=flat-square&logo=html5&logoColor=c8f000&labelColor=7b2cff)
+![CSS3](https://img.shields.io/badge/CSS3-0b0d12?style=flat-square&logo=css3&logoColor=c8f000&labelColor=7b2cff)
 
 **Backend & Infra**
 
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0b0d12?style=flat-square&logo=flask&logoColor=c8f000&labelColor=7b2cff)
+![Node.js](https://img.shields.io/badge/Node.js-0b0d12?style=flat-square&logo=node.js&logoColor=c8f000&labelColor=7b2cff)
+![Docker](https://img.shields.io/badge/Docker-0b0d12?style=flat-square&logo=docker&logoColor=c8f000&labelColor=7b2cff)
+![MongoDB](https://img.shields.io/badge/MongoDB-0b0d12?style=flat-square&logo=mongodb&logoColor=c8f000&labelColor=7b2cff)
+![JWT](https://img.shields.io/badge/JWT-0b0d12?style=flat-square&logo=jsonwebtokens&logoColor=c8f000&labelColor=7b2cff)
 
 **AI / ML**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![BERT/NLP](https://img.shields.io/badge/NLP-BERT-yellow?logo=huggingface&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0b0d12?style=flat-square&logo=pytorch&logoColor=c8f000&labelColor=7b2cff)
+![BERT/NLP](https://img.shields.io/badge/NLP-BERT-0b0d12?style=flat-square&logo=huggingface&logoColor=c8f000&labelColor=7b2cff)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-0b0d12?style=flat-square&logo=scikit-learn&logoColor=c8f000&labelColor=7b2cff)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0b0d12?style=flat-square&logo=git&logoColor=c8f000&labelColor=7b2cff)
+![Linux](https://img.shields.io/badge/Linux-0b0d12?style=flat-square&logo=linux&logoColor=c8f000&labelColor=7b2cff)
+![VS Code](https://img.shields.io/badge/VS%20Code-0b0d12?style=flat-square&logo=visual-studio-code&logoColor=c8f000&labelColor=7b2cff)
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ### Featured Projects
 
 | Project | Description |
 |---|---|
-| **[AURA](#)** | AI-driven universal disaster response pipeline — BERT classification, NER, geocoding, urgency scoring, and a live MongoDB + Flask dashboard |
+| **[AURA](https://project-aura-phi.vercel.app/)** | AI-driven universal disaster response pipeline — BERT classification, NER, geocoding, urgency scoring, and a live MongoDB + Flask dashboard |
 | **[SignEd](#)** | Dockerized document-signing platform with OTP email auth, JWT sessions, and a full REST API |
-| **[Barsa Enterprises](#)** | Brand & web presence for a woodworks and laser-engraving business |
+| **[Barsa Enterprises](https://barsa.co.in)** | Brand & web presence for a woodworks and laser-engraving business |
 
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blacksnow2706&amp;theme=dracula&amp;hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=BlackSnow2706&amp;background=0B0D12&amp;ring=C8F000&amp;fire=7B2CFF&amp;currStreakLabel=C8F000&amp;sideLabels=FFFFFF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=9AA0A6&amp;stroke=7B2CFF&amp;border_radius=12" alt="GitHub Streak"/>
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ### Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/piyushanand27" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-<a href="https://twitter.com/@PiyushA04044536" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" /></a>
-<a href="mailto:itzpiyushanand27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/piyushanand27" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7b2cff?style=for-the-badge&amp;logo=linkedin&amp;logoColor=c8f000" /></a>
+<a href="https://twitter.com/@PiyushA04044536" target="_blank"><img src="https://img.shields.io/badge/X-7b2cff?style=for-the-badge&amp;logo=x&amp;logoColor=c8f000" /></a>
+<a href="mailto:itzpiyushanand27@gmail.com"><img src="https://img.shields.io/badge/Gmail-7b2cff?style=for-the-badge&amp;logo=gmail&amp;logoColor=c8f000" /></a>
 </p>
 
 <p align="center"><i>Building safety tech, one commit at a time.</i></p>
