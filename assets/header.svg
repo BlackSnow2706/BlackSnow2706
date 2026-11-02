@@ -10,6 +10,7 @@
       .bob{animation:bob 3s ease-in-out infinite}
       .bob2{animation:bob 3s ease-in-out -1.5s infinite}
       .spin{transform-origin:center;transform-box:fill-box;animation:spin 14s linear infinite}
+      .l1,.l2,.l3{opacity:0;animation-fill-mode:both}
       .l1{animation:cycle 9s infinite}
       .l2{animation:cycle 9s 3s infinite}
       .l3{animation:cycle 9s 6s infinite}
